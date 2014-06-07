@@ -47,8 +47,8 @@ h1.title {
     top: -50px;
     opacity: 0; } }
 .scores-container {
-  float: left;
-  text-align: left; }
+  float: right;
+  text-align: right; }
 
 .score-container, .best-container {
   position: relative;
@@ -354,7 +354,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
    background: url('../tile-sets/512.jpg');
-    background-size: 100%;
+    background-size: 170%;
     color: rgba(0,0,0,0); }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
